@@ -1,0 +1,11 @@
+// Problem:
+
+// Given an integer as input, can you round it to the next (meaning, "higher") multiple of 5?
+
+// Solution:
+
+// function roundToNext5(n){
+
+//     return Math.ceil(n / 5) * 5
+    
+//     }
