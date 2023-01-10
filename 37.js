@@ -6,3 +6,5 @@
 //     while (i--) (i + 1) % 2 === 0 && (arr.splice(i, 1));
 //       return arr
 //     }
+
+// .
